@@ -2,7 +2,7 @@
 int main()
 {
 float a;
-scanf("%f",a);
+scanf("&a",%f);
 printf(a);   
 }
 
