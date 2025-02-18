@@ -6,8 +6,8 @@ int main()
     if (a%4==0) {
      printf("Leap Year");
     }
-    else if(a%100==0) {
-        print("Leap Year")
+    else if (a%100==0) {
+        printf("Leap Year")
     }
     
     else {
