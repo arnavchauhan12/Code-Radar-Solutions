@@ -9,13 +9,13 @@ int main()
         printf("vowel");
     }
         else {
-            printf("Consonant");
+            printf("consonant");
         }
        else if (a>=0 && a<=9) {
-            printf("Digit");
+            printf("digit");
          }
          else {
-            printf("Special character");
+            printf("special character");
          }
          }
 
